@@ -1,0 +1,15 @@
+# Site Settings
+title: Andrew Rafael James
+email: andrewrafaeljames96@gmail.com
+description: >
+  Andrew Rafael James' Blog
+baseurl: ''
+url: 'http://localhost:4000'
+twitter_username: drewrafael
+github_username: andrewrafaeljames
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
